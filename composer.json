@@ -1,0 +1,15 @@
+{
+  "name": "ikecin/template-composer",
+  "license": "MIT",
+  "type": "library",
+  "description": "template-composer",
+  "require": {
+    "php": ">=5.3",
+    "lib-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "iKECIN\\": "lib/"
+    }
+  }
+}
