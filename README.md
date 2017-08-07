@@ -1,4 +1,4 @@
-# xinge-api-php
+﻿# xinge-api-php
 ## 概述
 [信鸽](http://xg.qq.com) 是腾讯云提供的一款支持**百亿级**消息的移动App推送平台，开发者可以调用PHP SDK访问信鸽推送服务。
 

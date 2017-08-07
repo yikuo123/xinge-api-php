@@ -1,0 +1,13 @@
+{
+  "name": "ikecin/tencent-xg-push",
+  "license": "MIT",
+  "type": "library",
+  "description": "tencent xinge push",
+  "require": {
+    "php": ">=5.3",
+    "lib-curl": "*"
+  },
+  "autoload": {
+    "classmap": ["src/XingeApp.php"]
+  }
+}
